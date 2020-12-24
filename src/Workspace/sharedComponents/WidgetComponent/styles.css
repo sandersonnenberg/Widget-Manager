@@ -1,0 +1,13 @@
+.widget-component{
+    width:50%;
+}
+.card{
+    width:400px;
+    position: absolute;
+    top: 50px;
+    right: 10%;
+}
+.card p{text-transform: capitalize; text-align: left;}
+.card p span{
+    color:#1890ff
+}

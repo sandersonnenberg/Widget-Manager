@@ -1,0 +1,9 @@
+.ant-list-item-meta-title{text-align: left;
+}
+.widget-list{
+    width:300px;
+}
+.widget-name:hover{
+    cursor: pointer;
+    opacity: .8;
+}

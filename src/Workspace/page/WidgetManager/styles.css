@@ -1,0 +1,12 @@
+.widgets-view{
+    margin:5%;
+}
+.add-a-widget-button{
+    display: block;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.add-or-edit-modal{
+    width:350px !important;
+}
