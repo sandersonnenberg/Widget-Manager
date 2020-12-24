@@ -37,6 +37,7 @@ export default function WidgetManager() {
     const handleCancel = e => {
       setVisible(false)
     };
+    
   return (
     <div className="pageContainer">
       <h1>Widgets View</h1>
